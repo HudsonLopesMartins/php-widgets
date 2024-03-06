@@ -9,7 +9,7 @@ Este é um projeto de exemplo que demonstra o uso POO com php para gerar compone
 - Bootstrap v3.4
 Certifique-se de ter o ambiente de desenvolvimento configurado corretamente antes de prosseguir.
 
-## Instalação e Configuração
+## 📦 Instalação e Configuração
 **1.** Clone este repositório para o seu ambiente de desenvolvimento local:
 ```
 git clone https://github.com/HudsonLopesMartins/php-widgets.git
